@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: [AboveBGBelowPlayer]
+  tags:
+  - AboveBGBelowPlayer
   layers:
   - Default
   - TransparentFX

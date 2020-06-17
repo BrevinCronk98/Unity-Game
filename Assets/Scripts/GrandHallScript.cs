@@ -10,7 +10,7 @@ public class GrandHallScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        PlayerScript = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
     }
 
     // Update is called once per frame
@@ -23,7 +23,7 @@ public class GrandHallScript : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-        readable = true;
+          readable = true;
         }
     }
 
@@ -31,7 +31,7 @@ public class GrandHallScript : MonoBehaviour
   {
         if (other.tag == "Player")
         {
-        readable = false;
+          readable = false;
         }
   }
 
