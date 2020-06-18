@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Downstairs-6.unity
+=======
+- path: Assets/Scenes/CutsceneOpening2.unity
+>>>>>>> 156b92341eb9d12007923176af366786a9600cab
   isLoaded: 1
   isActive: 1
   isSubScene: 0
