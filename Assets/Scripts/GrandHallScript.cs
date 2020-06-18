@@ -23,11 +23,7 @@ public class GrandHallScript : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-<<<<<<< HEAD
-          readable = true;
-=======
         loveletter.SetActive(true);
->>>>>>> ccf21d7a312317457be165e90dafd5fa43d51c60
         }
     }
 
@@ -35,11 +31,7 @@ public class GrandHallScript : MonoBehaviour
   {
         if (other.tag == "Player")
         {
-<<<<<<< HEAD
-          readable = false;
-=======
         loveletter.SetActive(false);
->>>>>>> ccf21d7a312317457be165e90dafd5fa43d51c60
         }
   }
 }
