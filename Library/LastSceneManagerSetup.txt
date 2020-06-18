@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Downstairs-6.unity
-=======
-- path: Assets/Scenes/MainMenu-0.unity
->>>>>>> ccf21d7a312317457be165e90dafd5fa43d51c60
+- path: Assets/Scenes/Downstairs-5.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
